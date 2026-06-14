@@ -1,0 +1,17 @@
+{
+  "row_count": 15,
+  "average_weighted_score": 4.73,
+  "min_weighted_score": 1.8,
+  "max_weighted_score": 5.0,
+  "label_distribution": {
+    "excellent": 13,
+    "good": 1,
+    "fail": 1
+  },
+  "metric_averages": {
+    "accuracy": 4.67,
+    "relevance": 4.8,
+    "clarity": 4.73,
+    "safety": 4.8
+  }
+}
